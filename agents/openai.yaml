@@ -1,0 +1,4 @@
+interface:
+  display_name: "Etsy Listing Optimizer"
+  short_description: "Optimize Etsy listings for SEO and sales."
+  default_prompt: "Use $etsy-listing-optimizer to diagnose my Etsy title, tags, images, description, and sales strategy."
