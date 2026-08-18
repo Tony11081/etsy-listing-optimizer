@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Photo Campaign Direct"
+  short_description: "Codex-planned reference-locked ecommerce photo campaigns."
+  default_prompt: "Use $product-photo-campaign-openrouter to plan a cohesive reference-locked product-photo campaign and generate 5 images directly with Codex."

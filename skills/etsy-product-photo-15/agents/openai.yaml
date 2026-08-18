@@ -1,0 +1,4 @@
+interface:
+  display_name: "Etsy Product Photo 15"
+  short_description: "Fixed Etsy 15-image prompt"
+  default_prompt: "Use $etsy-product-photo-15 with my product images to create a complete Etsy listing photo set."
