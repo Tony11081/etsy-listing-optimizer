@@ -1,4 +1,4 @@
 interface:
   display_name: "Etsy Product Photo 15"
-  short_description: "Fixed Etsy 15-image prompt"
-  default_prompt: "Use $etsy-product-photo-15 with my product images to create a complete Etsy listing photo set."
+  short_description: "Etsy 15-image buyer-journey and fidelity workflow"
+  default_prompt: "Use $etsy-product-photo-15 with my product images to create and audit a truthful 15-image Etsy listing photo set."
